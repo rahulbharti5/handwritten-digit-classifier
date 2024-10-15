@@ -5,7 +5,7 @@ A neural network built from scratch to classify handwritten digits from the MNIS
 - **Technologies Used**: numpy
 - **Highlights**:
   - Custom architecture with 3 dense layers
-  - Achieved 98% accuracy
+  - Achieved 97% accuracy
   - Confusion matrix and prediction examples
 
 ## 1. Model Architecture
